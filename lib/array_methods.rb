@@ -3,8 +3,8 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-  array.reverse
-  puts array[0]
+  array2 = array.reverse
+  puts array2[0]
 end
 
 def find_min_value(array)
